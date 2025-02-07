@@ -14,3 +14,8 @@ $ npx create-next-app@latest frontend
 ```bash
 $ npm i -g @nest/cli
 ```
+
+
+## 功能
+- [ ] 登录页
+- [ ] 用户注册
